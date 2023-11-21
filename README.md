@@ -25,3 +25,39 @@ Enfin, une autre option possible, et celle qui m'attire le plus jusqu'à présen
 J’ai, depuis la fin de ma 1ère année en BUT, l’envie d’étudier la psychologie, de comprendre les méthodes de pensées des humains. C’est la raison pour laquelle j’envisage, après avoir reçu mon diplome de Bac+3, de faire des études de psychologie pour devenir psychologue ou un autre métier mêlant informatique et psychologie comme “Data Scientist”, “Chercheur en interaction homme-machine”, “Psychologue de la cybercriminalité” ou encore “Ingénieur en réalité virtuelle”. J’aimerais, à terme, pouvoir aider mon prochain et surtout, le comprendre.
 
 Pour devenir psychologue, un master en 5 ans est nécessaire. Cependant, en fonction de mon intérêt pour ce domaine, je pourrais ne faire qu’une formation en 3 ans et rechercher un travail permettant de mettre en pratique mes compétences en informatique ainsi que mes compétences en psychologie. Dans le monde de demain, l'informatique prend une part toujours plus importante, mais les humains et leur méthodes de pensées sont toujours une préocupation majeure. C'est la raison pour laquelle avoir des compétences transversales dans ces deux domaines est un atout important.
+
+## Compétences
+### Soft skills
+Au cours de ma vie j’ai pu développer différentes capacités sociales qui ont étés une aide importante afin de pouvoir m'intégrer à un groupe et entretenir des relations cordiales avec mon prochain. 
+
+#### Adaptabilité
+J'ai toujours eu recours à ma faculté d'adaptation pour avancer sans aller à contre courrant que ce soit dans le travail ou les relations. 
+J'ai su exploiter ma faculté d'observation afin de prévoir la réaction des personnes autour de moi et ainsi ne pas les brusquer ou me rendre plus appréciable à leurs yeux, que ce soit par mes paroles ou mon comportement, je peux m'adapter à mes interlocuteurs, presque naturellement, sans trop de réflexion de ma part.
+De la même manière, quand je travail sur un projet, je peux m'adapter à mes coworkers mais aussi à mon environnement de travail.
+
+#### Travail d’équipe
+Lié à mon adaptabilité, je peux facilement m'integrer à une équipe et m'affirmer au sein de celle-ci. Grâce aux nombreuses occasions que m'a donné l'IUT de travailler en groupe, j'ai pu réaffirmer cette compétence en temps que simple membre ou en temps que chef d'équipe. 
+J'ai par exemple, lors de ma 3ème année à l'IUT, participé à un "serious game" mettant en oeuvre le développement d'une entreprise et de leur produit principal sur plusieurs semaines. En tant que chef d'une équipe de 10 membres, j'ai su diriger cet "entreprise" et répartir les tâches à chacun des membres. Le but de ce "serious game" était de nous noter sur notre faculté à communiquer dans un groupe, et tous les membres de mon équipe ont reçu la note maximale.
+
+#### Rigueur et Résilience
+Lors de mes études en BUT Informatique principalement, j'ai eu nombre de problèmes d'environnement dû à mon orinateur portable. J'ai donc, en quelques sorte, malgrès moi, pu développer ma résilience et ma rigueur au travail. J'ai eu des problèmes dans la majorité de mes cours demandant un environnement particulier et ai donc dû savoir palier à mes problèmes en recherchant sur internet ou en demandant aux professeurs.
+
+#### Respect des délais
+Que ce soit lors de mes études post bac ou pre bac, j'ai du rendre énormément de travaux, en format papier ou numérique. Je n'ai jamais eu de plaintes concernant un retour en retard d'un travail. Je met toujours un point d'honneur à être à l'heure car je pense que c'est un manque de respect que de faire attendre quelqu'un.
+
+#### Esprit d’analyse
+J'utilise cotidiennement ma faculté d'analyse afin de pouvoir m'adapter facilement à mon environnement. Je préfère observer plutot que m'exprimer afin d'assurer la pertinence de mes propos lorsque je souhaite parler. Que ce soit dans un environnement personnel ou professionnel, j'analyse ce qui m'entour et m'adapte en conséquences.
+
+#### Empathie
+Il m'est souvent arrivé de vouloir comprendre mon prochain afin de pouvoir l'aider. J'aime aider et assister mon prochain. Que ce soit dans la joie ou la peine, je suis souvent là pour les gens qui sont prochent de moi.
+
+#### Patience
+Liée à ma rigueur et ma résilience, je sais être patient quand il le faut. 
+
+### Hard skills
+
+
+
+### Mad skills
+
+
