@@ -63,13 +63,12 @@ A partir de ma 1ère jusqu'à maintenant j'ai amélioré mes compétences en lan
 - Pendant la même periode de temps, j'ai également développé un puissance 4 avec une interface en ligne de commande également amélioré par des couleurs. De la même manière que pour le morpion, le joueur a la possibilité de jouer contre un autre humain sur la même machine ou contre ladite machine. Comme pour le morpion, les scores de tous les joueurs étaient enregistrés dans un fichier.
 ##### ***Java / JavaFX***
 Pendant ma première année de BUT, j’ai développé lors du second semestre un jeu adapté d’un jeu de plateau appelé “Latice”. Ce projet m’a permis de comprendre le développement orienté objet appliqué avec des langages comme Java et JavaFX. En effet, le jeu que j’avais créé lors de mes années au lycée a été développé avec python sans utiliser de classes.
-##### ***Js / Node.js***
-- Pendant ma seconde année à l’IUT, j’ai développé dans le cadre d’une saé une application web de mise en valeur de données dans un partenariat avec Legrand. Nous avons du, à 4 créer une application web permettant de visualiser rapidement et simplement des données présentes sur une base de données remplie avec des données réelles de Legrand. Lors de ce projet, nous avons dû créer de A à Z la partie graphique et la partie back-end avec les requêtes SQL. Finalement, nous avons écrit des tests, afin de vérifier notre code. Ce projet a utilisé node.js, MySql et express.
-- Lors de ma dernière année en BUT, j'ai pu participer à la constitution d'une application faite en node.js
+##### ***Node.js / JS***
+- Pendant ma seconde année à l’IUT, j’ai développé dans le cadre d’une saé une application web de mise en valeur de données dans un partenariat avec Legrand. Nous avons du, à 4 créer une application web permettant de visualiser rapidement et simplement des données présentes sur une base de données remplie avec des données réelles de Legrand. Lors de ce projet, nous avons dû créer de A à Z la partie graphique et la partie back-end avec les requêtes SQL. Finalement, nous avons écrit des tests, afin de vérifier notre code. Ce projet a utilisé node.js, MySql et express. De par la nature confidentielle de ce travail, je ne peux pas en dire davantage.
+- Lors de ma dernière année en BUT, j'ai pu participer à la constitution d'une application faite en node.js, interragissable via ligne de commande. Le but de cet application était de remonter les potentielles incohérences dans leurs bases de données. De par la nature confidentielle de ce travail, je ne peux pas en dire davantage.
+- Lors de mon stage j'ai du développer une démonstration pour une application qui allait permettre de faire des appels HTTP pour communiquer avec [monespacesanté](https://www.monespacesante.fr). Avant mon arrivée chez OKANTIS, cette démonstration était faite avec Postman. Ma version de démonstration a été utilisée lors d'un forum technologique auquel OKANTIS a participé en 2023 s'appelant [SantExpo](https://www.santexpo.com). Mon travail a onc été en première ligne et le représentant d'une solution développée par Okantis.
 ##### ***Symfony / Laravel***
 
 #### **Langages Front-End**
 
 ### **Mad skills**
-
-
