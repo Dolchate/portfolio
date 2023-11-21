@@ -1,1 +1,27 @@
-# portfolio
+# Aurèle RASSCHAERT : Informatique/Psychologie
+## Qui suis-je ?
+Je m'appelle Aurèle Rasschaert, j’ai 20 ans et je suis étudiant en BUT Informatique à Limoges. Je suis intéressé par l’univers de l’informatique et du développement d’applications, en particulier de jeux vidéo. Je suis très impliqué et sérieux dans les sujets qui m'intéressent, à l’inverse, je peux me montrer très réticent à travailler sur des projets et/ou travaux ne retenant pas mon attention. Je suis plutôt réservé et réfléchi, préférant me taire quand ce n’est pas mon domaine d’expertise ou que je n’ai que peu de connaissance sur le sujet.
+
+## Mon parcours d’étude
+
+Au lycée, je suis allé au lycée Turgot à Limoges, après avoir fini ma seconde avec l’option Science de l’Ingénieur (SI) afin de découvrir cette partie des sciences, j’ai pris goût au développement simple de petits véhicules. 
+Ainsi, en première, j’ai choisi un baccalauréat général avec les spécialités Mathématiques, car j’appréciais la matière et elle était un de mes points forts, physique chimie car c’était une matière que je ne voulais pas abandonner et finalement, j’ai choisi Numérique et Sciences Informatiques (NSI) afin de découvrir le monde de l’informatique qui m’avait plu lors des cours de SI.
+Après avoir fini ma première, j’ai choisi de conserver les spécialités NSI et Mathématiques, l’un car elle me plaisait beaucoup et me faisait m’épanouir dans un domaine nouveau et intéressant et l’autre car je pensais qu’une bonne maîtrise de l’informatique s’accompagnait d’une bonne maîtrise des Mathématiques. En ce sens, j’ai également pris en Terminale l’option Mathématiques expertes.
+En fin d’année de Terminale, j’ai donc passé mes épreuves de grand oral et de philosophie, les autres matières étant notées sur le contrôle continue des conséquences du Coronavirus, et acquis mon diplôme du Baccalauréat avec mention “Assez bien”.
+Grâce à l'obtention de mon diplôme, j’ai donc postulé aux BUT Informatique et MMI (Métiers du multimédia et de l’internet) du Limousin, à la nouvelle formation préparatoire MP2I (Mathématiques, Physique, Ingénierie et informatique) du lycée Gay Lussac ,en B.T.S. services informatiques aux organisations, ainsi qu’en faculté d’informatique et en licence Langues, littératures & civilisations étrangères et régionales (Anglais).
+J’ai tout d'abord été accepté partout sauf en MP2I, cependant, j’ai finalement été accepté dans cette formation. J’ai pris la décision de suivre la formation du BUT Informatique car plus concret et m'attirant plus. 
+
+## Projets personnels et objectifs professionnel
+
+A la suite de mes années d’apprentissage au BUT Informatique, plusieurs options sont possibles.
+La première option serait de continuer mes études dans une formation post BUT, ainsi, lors du forum d’étude organisé dans la saé S2.06 pendant ma 1ère année, certaines formations ont attiré mon regard. 
+- L’esaip, une école d'ingénieur située à Angers me permettrait d’avoir un diplôme d'ingénieur numérique afin de me permettre d'embaucher dans un poste à plus haute responsabilité et ayant un salaire plus important. Cette école propose différents parcours parmi lesquels, les langues étrangères, les sciences numériques et les stages en entreprises sont les composantes principales.  
+- G Tech, une école appartenant au gaming campus, ce campus privé, situé à Lyon et à Paris, est axé sur la création de jeux vidéo. Étant en BUT Informatique, le Bachelor en 3 ans de G Tech me correspond davantage. Cette formation me permettrait de m'orienter directement dans la création de jeux vidéo, une voie m’attirant sensiblement plus que d’autres métiers de l’informatique.
+
+La deuxième option serait de rechercher un travail directement après la fin de mon BUT.
+A la fin de mon stage, on m'a demandé au sein de mon entreprise (GIT OKANTIS) si je souhaitais faire une alternance chez eux, ce qui m'a permit de sécuriser une 3ème année en alternance pendant ma formation. De ce fait, je penses pouvoir être embaucher si je le souhaite à Okantis, si aucun incident ne se produit. Étant donné que je connais déjà le cadre de travail et mon équipe, que je m'entends bien avec celle_ci et que je fais srieusement mon travail, je penses être un atout majeur pour Okantis.
+
+Enfin, une autre option possible, et celle qui m'attire le plus jusqu'à présent, est de partir faire des études dans une formation différente n’ayant rien à voir avec l’informatique.
+J’ai, depuis la fin de ma 1ère année en BUT, l’envie d’étudier la psychologie, de comprendre les méthodes de pensées des humains. C’est la raison pour laquelle j’envisage, après avoir reçu mon diplome de Bac+3, de faire des études de psychologie pour devenir psychologue ou un autre métier mêlant informatique et psychologie comme “Data Scientist”, “Chercheur en interaction homme-machine”, “Psychologue de la cybercriminalité” ou encore “Ingénieur en réalité virtuelle”. J’aimerais, à terme, pouvoir aider mon prochain et surtout, le comprendre.
+
+Pour devenir psychologue, un master en 5 ans est nécessaire. Cependant, en fonction de mon intérêt pour ce domaine, je pourrais ne faire qu’une formation en 3 ans et rechercher un travail permettant de mettre en pratique mes compétences en informatique ainsi que mes compétences en psychologie. Dans le monde de demain, l'informatique prend une part toujours plus importante, mais les humains et leur méthodes de pensées sont toujours une préocupation majeure. C'est la raison pour laquelle avoir des compétences transversales dans ces deux domaines est un atout important.
