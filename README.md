@@ -58,9 +58,9 @@ Suite à ma première, deuxième et début de 3ème années de BUT et mes année
 #### **Langages Back-End**
 A partir de ma 1ère jusqu'à maintenant j'ai amélioré mes compétences en langages de programmation back-end.
 ##### ***Python***
-- Au cours de mon année de Terminale, j’ai développé un jeu textuel basique d’aventure, ce projet m’a permis de m'immerger dans la création de jeux vidéo simples. Mon jeu s’appelant “La grande Aventure” ne possède en fait qu’une histoire assez brève avec quelques rebondissements. Cependant, il m’a permis de comprendre les mécanismes de balance et de monnaie au sein des jeux vidéo. Même si l'histoire est assez courte, j'ai mit en place un système qui lui permet d'évoluer de façon infini, avec des ennemis qui évoluent en fonction du niveau du personnage. J'ai également ajouté un système d'achat, pour pouvoir acheter des potions, entre autre.
-- Lors du premier semestre de ma première année en BUT Informatique, j'ai eu la possibilité de développer un plusieurs petits jeu en Python comme un morpion avec la possibiilté de jouer contre l'ordinateur ou entre joueurs. L'interface était complètement en ligne de commande. Les scores de tous les joueurs étaient enregistrés dans un fichier binaire et pouvaient être accèssibles via l'application.
-- Pendant la même periode de temps, j'ai également développé un puissance 4 avec une interface en ligne de commande également amélioré par des couleurs. De la même manière que pour le morpion, le joueur a la possibilité de jouer contre un autre humain sur la même machine ou contre ladite machine. Comme pour le morpion, les scores de tous les joueurs étaient enregistrés dans un fichier.
+- Au cours de mon année de Terminale, j’ai développé un jeu textuel basique d’aventure, ce projet m’a permis de m'immerger dans la création de jeux vidéo simples. Mon jeu, “[La grande Aventure](https://github.com/Dolchate/TheGreatAdventure.git)” ne possède en fait qu’une histoire assez brève avec quelques rebondissements. Cependant, il m’a permis de comprendre les mécanismes de balance et de monnaie au sein des jeux vidéo. Même si l'histoire est assez courte, j'ai mit en place un système qui lui permet d'évoluer de façon infini, avec des ennemis qui évoluent en fonction du niveau du personnage. J'ai également ajouté un système d'achat, pour pouvoir acheter des potions, entre autre.
+- Lors du premier semestre de ma première année en BUT Informatique, j'ai eu la possibilité de développer un [plusieurs petits jeu en Python](https://github.com/Dolchate/BundleOfPythonGames.git) comme un morpion avec la possibiilté de jouer contre l'ordinateur ou entre joueurs. L'interface était complètement en ligne de commande. Les scores de tous les joueurs étaient enregistrés dans un fichier binaire et pouvaient être accèssibles via l'application.
+- Pendant la même periode de temps, j'ai également développé un [Puissance 4](https://github.com/Dolchate/BundleOfPythonGames.git) avec une interface en ligne de commande également amélioré par des couleurs. De la même manière que pour le morpion, le joueur a la possibilité de jouer contre un autre humain sur la même machine ou contre ladite machine. Comme pour le morpion, les scores de tous les joueurs étaient enregistrés dans un fichier.
 ##### ***Java / JavaFX***
 Pendant ma première année de BUT, j’ai développé lors du second semestre un jeu adapté d’un jeu de plateau appelé “Latice”. Ce projet m’a permis de comprendre le développement orienté objet appliqué avec des langages comme Java et JavaFX. En effet, le jeu que j’avais créé lors de mes années au lycée a été développé avec python sans utiliser de classes.
 ##### ***Node.js / JS***
@@ -77,6 +77,7 @@ Dans le cadre de mes études, j'ai du à plusieur reprises créer des sites inte
 Lors de la réalisation de mes sites web, j'ai eu l'occassion de d'utiliser du HTML et du CSS.
 - En Laravel comme en Symfony, le front-end est réalisé en totalité par le developper. Il existe cependant, pour l'aider, des technologies comme Tailwind ou Twig, lui permettant de facilement manipuler des données dans un fichier html.
 - Au cours de mon stage, j'ai réalisé la version de démonstration d'une application. J'ai réalisé la totalité du front-end sur cette demonstration en HTML, CSS et JS.
+- Pendant ma 2nd année de BUT, j'ai en tant que travail pratique, créé une application web : [Prise-de-notes](https://github.com/Auxyde/Prise-de-Notes) .  Celle-ci était responsive et majoritairement codée en JS, avec un accès en base de données pour conserver les notes.
 
 #### **Virtualisation de procédés**
 Lors de mes années de mon BUT j'ai été introduit à la virtualisation, que ce soit de la virtualisation lourde (Machine virtuelle) ou légère (Conteneurisation).
@@ -85,6 +86,10 @@ Lors de mes années de mon BUT j'ai été introduit à la virtualisation, que ce
 
 ### **Mad skills**
 Grâce à ma passion pour certains romans non disponibles en français, j’ai, depuis le premier confinement, commencé à lire des romans en Anglais. De plus, ayant certains contacts amicaux dans d’autre pays, j’ai pu également échanger à l’oral et à l’écrit de façon bien plus poussée que pendant les heures d’enseignement de cette langue.
+
+## **Projet d'études**
+Après avoir reçus mon diplome de BUT Informatique, je compte aller en faculté de psychologie.  
+J'ai, depuis la fin de ma 2nd année de BUT Informatique, l'envie de comprendre les méthodes de fonctionnement des reflexions des personnes qui m'entourent. C'est pour cette raison que je souhaite parfaire mes maigres connaissances en psychologie pour potentiellement devenir psychologue, ou faire un métier transversale à la psychologie et à l'informatique.
 
 ## **Contacts**
 
