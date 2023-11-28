@@ -4,12 +4,12 @@ Je m'appelle Aurèle Rasschaert, j’ai 20 ans et je suis étudiant en BUT Infor
 
 ## **Mon parcours d’étude**
 
-Au lycée, je suis allé au lycée Turgot à Limoges, après avoir fini ma seconde avec l’option Science de l’Ingénieur (SI) afin de découvrir cette partie des sciences, j’ai pris goût au développement simple de petits véhicules. 
-Ainsi, en première, j’ai choisi un baccalauréat général avec les spécialités Mathématiques, car j’appréciais la matière et elle était un de mes points forts, physique chimie car c’était une matière que je ne voulais pas abandonner et finalement, j’ai choisi Numérique et Sciences Informatiques (NSI) afin de découvrir le monde de l’informatique qui m’avait plu lors des cours de SI.
-Après avoir fini ma première, j’ai choisi de conserver les spécialités NSI et Mathématiques, l’un car elle me plaisait beaucoup et me faisait m’épanouir dans un domaine nouveau et intéressant et l’autre car je pensais qu’une bonne maîtrise de l’informatique s’accompagnait d’une bonne maîtrise des Mathématiques. En ce sens, j’ai également pris en Terminale l’option Mathématiques expertes.
-En fin d’année de Terminale, j’ai donc passé mes épreuves de grand oral et de philosophie, les autres matières étant notées sur le contrôle continue des conséquences du Coronavirus, et acquis mon diplôme du Baccalauréat avec mention “Assez bien”.
-Grâce à l'obtention de mon diplôme, j’ai donc postulé aux BUT Informatique et MMI (Métiers du multimédia et de l’internet) du Limousin, à la nouvelle formation préparatoire MP2I (Mathématiques, Physique, Ingénierie et informatique) du lycée Gay Lussac ,en B.T.S. services informatiques aux organisations, ainsi qu’en faculté d’informatique et en licence Langues, littératures & civilisations étrangères et régionales (Anglais).
-J’ai tout d'abord été accepté partout sauf en MP2I, cependant, j’ai finalement été accepté dans cette formation. J’ai pris la décision de suivre la formation du BUT Informatique car plus concret et m'attirant plus. 
+Au lycée, je suis allé au lycée Turgot à Limoges, après avoir fini ma seconde avec l’option Science de l’Ingénieur (SI) afin de découvrir cette partie des sciences, j’ai pris goût au développement simple de petits véhicules.  
+Ainsi, en première, j’ai choisi un baccalauréat général avec les spécialités Mathématiques, car j’appréciais la matière et elle était un de mes points forts, physique chimie car c’était une matière que je ne voulais pas abandonner et finalement, j’ai choisi Numérique et Sciences Informatiques (NSI) afin de découvrir le monde de l’informatique qui m’avait plu lors des cours de SI.  
+Après avoir fini ma première, j’ai choisi de conserver les spécialités NSI et Mathématiques, l’un car elle me plaisait beaucoup et me faisait m’épanouir dans un domaine nouveau et intéressant et l’autre car je pensais qu’une bonne maîtrise de l’informatique s’accompagnait d’une bonne maîtrise des Mathématiques. En ce sens, j’ai également pris en Terminale l’option Mathématiques expertes.  
+En fin d’année de Terminale, j’ai donc passé mes épreuves de grand oral et de philosophie, les autres matières étant notées sur le contrôle continue des conséquences du Coronavirus, et acquis mon diplôme du Baccalauréat avec mention “Assez bien”.  
+Après l'obtention de mon diplôme, j’ai donc postulé aux BUT Informatique et MMI (Métiers du multimédia et de l’internet) du Limousin, à la nouvelle formation préparatoire MP2I (Mathématiques, Physique, Ingénierie et informatique) du lycée Gay Lussac ,en B.T.S. services informatiques aux organisations, ainsi qu’en faculté d’informatique et en licence Langues, littératures & civilisations étrangères et régionales (Anglais).  
+J’ai été accepté partout mais ai pris la décision de suivre la formation du BUT Informatique car plus concrete et m'attirant d'avantage. 
 
 ## **Projets personnels et objectifs professionnel**
 
@@ -55,25 +55,25 @@ Il m'est souvent arrivé de vouloir comprendre mon prochain afin de pouvoir l'ai
 ### **Hard skills**
 Suite à ma première, deuxième et début de 3ème années de BUT et mes années de Terminale et Première, j’ai pu acquérir penant mes cours différentes compétences pratiques.
 
-  #### **Langages Back-End**
+#### **Langages Back-End**
 A partir de ma 1ère jusqu'à maintenant j'ai amélioré mes compétences en langages de programmation back-end.
-  ##### ***Python***
+##### ***Python***
 - Au cours de mon année de Terminale, j’ai développé un jeu textuel basique d’aventure, ce projet m’a permis de m'immerger dans la création de jeux vidéo simples. Mon jeu s’appelant “La grande Aventure” ne possède en fait qu’une histoire assez brève avec quelques rebondissements. Cependant, il m’a permis de comprendre les mécanismes de balance et de monnaie au sein des jeux vidéo. Même si l'histoire est assez courte, j'ai mit en place un système qui lui permet d'évoluer de façon infini, avec des ennemis qui évoluent en fonction du niveau du personnage. J'ai également ajouté un système d'achat, pour pouvoir acheter des potions, entre autre.
 - Lors du premier semestre de ma première année en BUT Informatique, j'ai eu la possibilité de développer un plusieurs petits jeu en Python comme un morpion avec la possibiilté de jouer contre l'ordinateur ou entre joueurs. L'interface était complètement en ligne de commande. Les scores de tous les joueurs étaient enregistrés dans un fichier binaire et pouvaient être accèssibles via l'application.
 - Pendant la même periode de temps, j'ai également développé un puissance 4 avec une interface en ligne de commande également amélioré par des couleurs. De la même manière que pour le morpion, le joueur a la possibilité de jouer contre un autre humain sur la même machine ou contre ladite machine. Comme pour le morpion, les scores de tous les joueurs étaient enregistrés dans un fichier.
-  ##### ***Java / JavaFX***
+##### ***Java / JavaFX***
 Pendant ma première année de BUT, j’ai développé lors du second semestre un jeu adapté d’un jeu de plateau appelé “Latice”. Ce projet m’a permis de comprendre le développement orienté objet appliqué avec des langages comme Java et JavaFX. En effet, le jeu que j’avais créé lors de mes années au lycée a été développé avec python sans utiliser de classes.
-  ##### ***Node.js / JS***
+##### ***Node.js / JS***
 - Pendant ma seconde année à l’IUT, j’ai développé dans le cadre d’une saé une application web de mise en valeur de données dans un partenariat avec Legrand. Nous avons du, à 4 créer une application web permettant de visualiser rapidement et simplement des données présentes sur une base de données remplie avec des données réelles de Legrand. Lors de ce projet, nous avons dû créer de A à Z la partie graphique et la partie back-end avec les requêtes SQL. Finalement, nous avons écrit des tests, afin de vérifier notre code. Ce projet a utilisé node.js, MySql et express. De par la nature confidentielle de ce travail, je ne peux pas en dire davantage.
-- Lors de ma dernière année en BUT, j'ai pu participer à la constitution d'une application faite en node.js, interragissable via ligne de commande. Le but de cet application était de remonter les potentielles incohérences dans leurs bases de données. De par la nature confidentielle de ce travail, je ne peux pas en dire davantage.
+- Lors de ma dernière année en BUT, j'ai pu participer à la constitution d'une application faite en node.js, à laquelle on pouvait interagir via des lignes de commandes. Le but de cet application était de remonter les potentielles incohérences dans leurs bases de données.
 - Lors de mon stage j'ai du développer une démonstration pour une application qui allait permettre de faire des appels HTTP pour communiquer avec [monespacesanté](https://www.monespacesante.fr). Avant mon arrivée chez OKANTIS, cette démonstration était faite avec Postman. Ma version de démonstration a été utilisée lors d'un forum technologique auquel OKANTIS a participé en 2023 s'appelant [SantExpo](https://www.santexpo.com). Mon travail a onc été en première ligne et le représentant d'une solution développée par Okantis.
-  ##### ***Symfony / Laravel***
+##### ***Symfony / Laravel***
 Dans le cadre de mes études, j'ai du à plusieur reprises créer des sites internets, notamment en utilisant des technologies comme Symfony ou Laravel.
 - J'ai réalisé mon tout premier site en Symfony pendant ma 2nd année de cours, c'était un simple blog avec des posts et un CRUD pour ceux-ci.
 - Au cours de ma 3ème année, j'ai également utilisé Symfony pour developper un site, cette fois ce site avait pour but de répertorier les Manwhas, Mangas et Novels que je lisais. On pouvait préciser le(s) jour(s) de sortie de mes lectures. J'ai également implémenté une interface administrateur avec phpmyadmin.
 - Pendant la même periode de temps, j'ai à nouveau réalisé un blog, cette fois en utilisant Laravel. Ce blog prenait en compte des catégories pour les posts et l'envoie de mail lors de l'utilisation des catégories par les posts.
 #### **Langages Front-End**
-  ##### ***HTML / CSS / JS***
+##### ***HTML / CSS / JS***
 Lors de la réalisation de mes sites web, j'ai eu l'occassion de d'utiliser du HTML et du CSS.
 - En Laravel comme en Symfony, le front-end est réalisé en totalité par le developper. Il existe cependant, pour l'aider, des technologies comme Tailwind ou Twig, lui permettant de facilement manipuler des données dans un fichier html.
 - Au cours de mon stage, j'ai réalisé la version de démonstration d'une application. J'ai réalisé la totalité du front-end sur cette demonstration en HTML, CSS et JS.
@@ -86,7 +86,9 @@ Lors de mes années de mon BUT j'ai été introduit à la virtualisation, que ce
 ### **Mad skills**
 Grâce à ma passion pour certains romans non disponibles en français, j’ai, depuis le premier confinement, commencé à lire des romans en Anglais. De plus, ayant certains contacts amicaux dans d’autre pays, j’ai pu également échanger à l’oral et à l’écrit de façon bien plus poussée que pendant les heures d’enseignement de cette langue.
 
-## **Projets en cours et réalisation**
+## **Contacts**
 
-
+Mail : aurele.rasschaert@etu.unilim.fr
+Téléphone : 08 81 52 15 56
+LinkedIn : Aurèle Rasschaert
 
