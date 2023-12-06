@@ -70,7 +70,7 @@ Pendant ma première année de BUT, j’ai développé lors du second semestre u
 ##### ***Symfony / Laravel***
 Dans le cadre de mes études, j'ai du à plusieur reprises créer des sites internets, notamment en utilisant des technologies comme Symfony ou Laravel.
 - J'ai réalisé mon tout premier site en Symfony pendant ma 2nd année de cours, c'était un simple blog avec des posts et un CRUD pour ceux-ci.
-- Au cours de ma 3ème année, j'ai également utilisé Symfony pour developper un site, cette fois ce site avait pour but de répertorier les Manwhas, Mangas et Novels que je lisais. On pouvait préciser le(s) jour(s) de sortie de mes lectures. J'ai également implémenté une interface administrateur avec phpmyadmin.
+- Au cours de ma 3ème année, j'ai également utilisé Symfony pour developper une [librairie](https://github.com/Dolchate/SymfonyLibrary/tree/main), cette fois ce site avait pour but de répertorier les Manwhas, Mangas et Novels que je lisais. On pouvait préciser le(s) jour(s) de sortie de mes lectures. J'ai également implémenté une interface administrateur avec phpmyadmin.
 - Pendant la même periode de temps, j'ai à nouveau réalisé un [blog](https://github.com/Dolchate/LaravelBlog.git), cette fois en utilisant Laravel. Ce blog prenait en compte des catégories pour les posts et l'envoie de mail lors de l'utilisation des catégories par les posts.
 #### **Langages Front-End**
 ##### ***HTML / CSS / JS***
@@ -82,7 +82,7 @@ Lors de la réalisation de mes sites web, j'ai eu l'occassion de d'utiliser du H
 #### **Virtualisation de procédés**
 Lors de mes années de mon BUT j'ai été introduit à la virtualisation, que ce soit de la virtualisation lourde (Machine virtuelle) ou légère (Conteneurisation).
 - Mes projets en Laravel et Symfony de 3ème année ont tous les deux été fait en utilisant Docker.
-- J'ai eu l'occasion d'utiliser docker Swarm au sein de mes cours pour voir la possibilité de créer des applications utilisant plusieurs moteurs docker.
+- J'ai eu l'occasion d'utiliser docker Swarm au sein de mes cours pour voir la possibilité de créer des applications utilisant plusieurs moteurs docker. Je me suis notamment amusé avec les [dockercoins](https://github.com/dockersamples/dockercoins) localement.
 
 ### **Mad skills**
 Grâce à ma passion pour certains romans non disponibles en français, j’ai, depuis le premier confinement, commencé à lire des romans en Anglais. De plus, ayant certains contacts amicaux dans d’autre pays, j’ai pu également échanger à l’oral et à l’écrit de façon bien plus poussée que pendant les heures d’enseignement de cette langue.
@@ -95,5 +95,8 @@ J'ai, depuis la fin de ma 2nd année de BUT Informatique, l'envie de comprendre 
 
 Mail : aurele.rasschaert@etu.unilim.fr  
 Téléphone : 06 81 52 15 56  
-LinkedIn : Aurèle Rasschaert  
+LinkedIn : Aurèle Rasschaert
+
+## Informations supplémentaires
+Certains de mes travaux sont confidentiels, c'est notamment le cas pour mon travail pour les entreprises Legrand et Okantis, aucun liens ne menant à ces travaux ne sont donc disponibles.
 
